@@ -1,2 +1,3 @@
 # CgExamSystem
-第一次提交
+
+Stores here are the CG related questions with appropriate answers.
